@@ -12,8 +12,7 @@ Documents are **groups of pages** connected through:
 - **previous/next navigation**
 - **versioning**
 
-## Create your first Doc
-
+## ايه هو نظام الساجا ؟
 Create a Markdown file at `docs/hello.md`:
 
 ```md title="docs/hello.md"
